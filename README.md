@@ -11,13 +11,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Screenshot
 
-
-
-
+https://github.com/laurahayward-22/frontend_qr_code_component/blob/main/screenshot_qr-Code.jpg
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://laurahayward-22.github.io/frontend_qr_code_component/)
 
 
 
